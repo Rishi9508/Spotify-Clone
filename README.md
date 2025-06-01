@@ -8,39 +8,39 @@ Reddit
 +3
 
 🚀 Live Demo
-Link to live demo (if available)
+   Link to live demo (if available)
 
 📸 Screenshots
 ![Screenshot 2025-06-01 193448](https://github.com/user-attachments/assets/0d04298c-6d88-4f67-a054-ae524a4a39eb)
 
 
 🛠️ Features
-Responsive UI mimicking Spotify's design
+    Responsive UI mimicking Spotify's design
 
-Music playback controls: play, pause, next, previous
+   Music playback controls: play, pause, next, previous
 
-Dynamic song list rendering from the songs directory
+   Dynamic song list rendering from the songs directory
 
-Interactive progress bar with seek functionality
+   Interactive progress bar with seek functionality
 
-Volume control with mute/unmute options
+   Volume control with mute/unmute options
 
-Album display with cover images and descriptions
+   Album display with cover images and descriptions
 
-Mobile-friendly navigation with hamburger menu
+   Mobile-friendly navigation with hamburger menu
 
 🧰 Technologies Used
-HTML5
+    HTML5
 
-CSS3
+   CSS3
 
-JavaScript (ES6)
+  JavaScript (ES6)
 GitHub
-+4
+  +4
 GitHub
-+4
+  +4
 GitHub
-+4
+  +4
 GitHub
 
 📂 Project Structure
