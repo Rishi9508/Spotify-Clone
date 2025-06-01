@@ -1,0 +1,51 @@
+[
+  {
+    "folder": "partymood",
+    "title": "Party Mood",
+    "description": "Get the party started with these upbeat tracks.",
+    "cover": "cover.jpg"
+  },
+  {
+    "folder": "bhaktisongs",
+    "title": "Bhakti Songs",
+    "description": "Adhaytam Awakening Hindi.",
+    "cover": "cover.jpg"
+  },
+
+  {
+    "folder": "bhojpurisongs",
+    "title": "Hot Hits Bhojpuri",
+    "description": "Catch all the Bhojpuri top hits.",
+    "cover": "cover.jpg"
+  },
+
+  {
+    
+    "folder": "Lofisongs",
+    "title": "Lofi Vibe Hindi",
+    "description": "Inhale & exhale to the beats of Lofi.",
+    "cover": "cover.jpg"
+  },
+
+  {
+    "folder": "punjabisongs",
+    "title": "Punjabi Hits",
+    "description": "Catch the hottest Punjabi tracks.",
+    "cover": "cover.jpg"
+  },
+
+  {
+    "folder": "Rapsongs",
+    "title": "RAP Caviar",
+    "description": "Songs by Divine,MC Square.",
+    "cover": "cover.jpg"
+  },
+
+  {
+    "folder": "Romanticsongs",
+    "title": "THRISTY FOR LOVE",
+    "description": "Romantic Love Songs Academy, JAZZ Zone.",
+    "cover": "cover.jpg"
+  }
+
+]
